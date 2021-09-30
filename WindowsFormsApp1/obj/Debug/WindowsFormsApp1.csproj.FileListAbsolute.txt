@@ -1,0 +1,25 @@
+C:\Users\kifel\Desktop\Alex\practice\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\kifel\Desktop\Alex\practice\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\kifel\Desktop\Alex\practice\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\kifel\Desktop\Alex\practice\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\kifel\Desktop\Alex\practice\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\kifel\Desktop\Alex\practice\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\kifel\Desktop\Alex\practice\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\kifel\Desktop\Alex\practice\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\kifel\Desktop\Alex\practice\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\kifel\Desktop\Alex\practice\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\kifel\Desktop\Alex\Новая папка\practice\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\kifel\Desktop\Alex\Новая папка\practice\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\kifel\Desktop\Alex\Новая папка\practice\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\kifel\Desktop\Alex\Новая папка\practice\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\kifel\Desktop\Alex\Новая папка\practice\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\kifel\Desktop\Alex\Новая папка\practice\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\kifel\Desktop\Alex\Новая папка\practice\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\kifel\Desktop\Alex\Новая папка\practice\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\kifel\Desktop\Alex\Новая папка\practice\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\kifel\Desktop\Alex\Новая папка\practice\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\kifel\Desktop\Alex\Новая папка\practice\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StartMenu.resources
+C:\Users\kifel\Desktop\Alex\Новая папка\practice\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AboutGame.resources
+C:\Users\kifel\Desktop\Alex\Новая папка\practice\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SecondMenu.resources
+C:\Users\kifel\Desktop\Alex\Новая папка\practice\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EndGame.resources
+C:\Users\kifel\Desktop\Alex\Новая папка\practice\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Results.resources
